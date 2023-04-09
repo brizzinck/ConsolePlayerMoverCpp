@@ -1,0 +1,3 @@
+﻿  PuckmanC++.cpp
+D:\AllGivno\C++\ConsolePlayerMoverCpp\SpawnMap.cpp(14,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PuckmanC++.vcxproj -> D:\AllGivno\C++\ConsolePlayerMoverCpp\x64\Debug\PuckmanC++.exe

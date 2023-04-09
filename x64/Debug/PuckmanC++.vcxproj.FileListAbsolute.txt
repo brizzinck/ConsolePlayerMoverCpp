@@ -1,0 +1,2 @@
+D:\AllGivno\C++\PuckmanC++\x64\Debug\PuckmanC++.exe
+D:\AllGivno\C++\ConsolePlayerMoverCpp\x64\Debug\PuckmanC++.exe
